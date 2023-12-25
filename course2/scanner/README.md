@@ -7,7 +7,9 @@
 
 - Python 3.x
 - PyQt5
-- nmap
+- requests
+- scapy
+- libpcap
 
 ## Установка зависимостей
 
