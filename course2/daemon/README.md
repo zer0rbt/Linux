@@ -90,5 +90,5 @@ journalctl -u backup-daemon
 ./backup_actions.sh stop     # Остановить демона
 ./backup_actions.sh restart  # Перезапустить демона
 ./backup_actions.sh status   # Проверить статус демона
-./backup_actions.sh config   # Открыть конфигурационный файл в редакторе
+./backup_actions.sh build   # Сборка программы
 ```
